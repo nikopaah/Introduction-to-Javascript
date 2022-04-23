@@ -89,7 +89,7 @@ First of all, it is necessary to clarify a difference between programming langua
 </br>
 
 On the other hand, `untyped` languages are languages that don't need to declare their type, you don't define that `there is a variable of type INT`, you just say `there is a variable`.
-- if you tell JavaScript that there is a `var` that initializes with a value `"A"` and then you say that its value becomes `5` the JS will tell you _"Alright my little friend, go ahead" _
+- if you tell JavaScript that there is a `var` that initializes with a value `"A"` and then you say that its value becomes `5` the JS will tell you _"Alright my little friend, go ahead"_
 
 -----
 ### [ Primary Types of Variables ]
